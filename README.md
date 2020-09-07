@@ -1,10 +1,13 @@
-### Hi there, I'm Or Meiry - [Porfolio][website] 👋
+# Hi there, I'm Or Meiry - [Porfolio][website] 👋
 
 ## I'm a Full-Stack Web Developer.
+<hr />
 
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Contribute more to Open Source
-  projects, and to work with great developers.
+#### It all started when I Wrote my first "Hello, World!", after that I was hooked!.
+
+- 🌱 I’m currently learning everything I can on Web Development.
+- 🥅 2020 Goals: Contribute to Open Source
+  projects, and to work with great developers.  
 - ⚡ Fun fact: I am a certified chef, and love cooking!
 
 <br />
