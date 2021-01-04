@@ -5,9 +5,8 @@
 
 #### It all started when I Wrote my first "Hello, World!", after that I was hooked!.
 
-- 🌱 I’m currently learning everything I can on Web Development, programming and DevOps..
-- 🥅 2021 Goals: Contribute to Open Source
-  projects, work with great developers, and learn some DevOps best practices. 
+- 🌱 I’m currently learning everything I can on Web Development, programming and DevOps.
+- 🥅 2021 Goals: Contribute to Open Source projects, work with great developers, and learn some DevOps best practices. 
 - ⚡ Fun fact: I am a certified chef, and love cooking!.
 
 <br />
