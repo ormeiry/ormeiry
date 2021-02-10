@@ -1,4 +1,4 @@
-# Hi there, I'm Or Meiry - [Porfolio][website]
+# Hi there, I'm Or Meiry - [Portfolio][website]
 
 ## I'm a Full-Stack Web Developer.
 
