@@ -1,6 +1,6 @@
 # Hello, my name is Or Meiry and I'm a Full-Stack Web Developer.
 
-### You can check out my [Portfolio][website] website. be sure to come back here and see some of my other projects. Have fun!.
+### You can check out my [Portfolio][website] website to learn more about me, and see some of my work. Be sure to come back here and see some of my other projects. Have fun!.
 
 <hr />
 
