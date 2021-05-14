@@ -1,12 +1,12 @@
 # Hello, my name is Or Meiry and I'm a Full-Stack Web Developer.
 
-### You can check out my [Portfolio][website] website to learn more about me, and see some of my work. Be sure to come back here and see some of my other projects. Have fun!.
+### You can check out my [Portfolio][website] website and see some of my work. Be sure to come back here and see some of my other projects, you can take a look at the code and clone the prjects to your PC. Have fun!.
 
 <hr />
 
-#### It all started when I Wrote my first "Hello, World!", after that I was hooked!.
+#### It all started when I Wrote my first "Hello, World!", after that I was hooked!. I started learning on my own, and I still learn every day.
 
-- I’m currently learning everything I can on Web Development, programming, developing on AWS, and DevOps tools and ideas.
+- I’m currently teaching web development to software students, from HTML and React to NodeJS.
 - 2021 Goals: Contribute to Open Source projects, work with great developers, become a better developer, and learn some DevOps best practices.
 - Fun fact: I am a certified chef, and I love cooking!.
 
