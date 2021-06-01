@@ -8,7 +8,9 @@
 
 - I’m currently teaching web development to software students, from HTML and React to NodeJS.
 - 2021 Goals: Contribute to Open Source projects, work with great developers, become a better developer, and learn some DevOps best practices.
+- At the moment, I am planning and working on some new projects, both learning and professional ones.
 - Fun fact: I am a certified chef, and I love cooking!.
+
 
 <br />
 
